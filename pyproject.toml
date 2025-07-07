@@ -1,9 +1,0 @@
-[project]
-name = "dagster-rvdss"
-version = "0.1.0"
-description = "Add your description here"
-requires-python = ">=3.13"
-dependencies = [
-    "pandas==2.3.0",
-    "uv>=0.7.19",
-]
